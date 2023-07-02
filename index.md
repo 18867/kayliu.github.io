@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mark the days count
 
 You can use the [editor on GitHub](https://github.com/18867/kayliu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
